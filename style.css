@@ -1,0 +1,66 @@
+@import url('https://googleapis.com');
+*{
+font-family: roboto,sans-serif;
+}
+box4{
+    background-color: lightgrey;
+    
+}
+.tittle{
+    text-align: center;
+}
+.conteiner{
+    flex-direction: row;
+    display: flex;
+    gap: 5%;
+    text-align: center;
+   justify-content: center;
+}
+
+.conteiner div{
+    background-color: white;
+    border: solid black 2px;
+    width: 8%; height: 15vh;
+    border: solid blue;
+    border-radius: 15px;
+    
+
+}
+.conteiner2{
+    flex-direction: row;
+    display: flex;
+    gap: 6.2%;
+    text-align: center;
+   justify-content: center;
+
+}
+
+.conteiner2 div{
+  background-color: white;
+  width: 7%; height: 7%;
+  justify-content: center;
+  margin-:100px;
+}
+.box1{
+    background: linear-gradient(to right, #1c1c1c, #1c1c1c);
+    padding: 10%;
+    color: white ;
+}
+
+.box3{
+    background-color: lightgrey;
+    linear-gradient(to right, lightgrey);
+    padding:6%;
+    
+
+ }
+ .box3 div{
+width: 68%;
+align-items: center;
+margin-left: 18%;
+font-size: 40px;
+font-style: italic;
+ }
+ h6{
+margin-left: 60%;
+ }
